@@ -17,7 +17,7 @@ React-based frontend for the FrescAI application that classifies fruits as fresh
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/fruit-classifier-frontend.git
+git clone https://github.com/winzyu/fruit-classifier-frontend.git
 cd fruit-classifier-frontend
 ```
 
