@@ -1,0 +1,11 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grid-background {
+  background-image: linear-gradient(#e5f3e5 1px, transparent 1px),
+    linear-gradient(to right, #e5f3e5 1px, transparent 1px);
+  background-size: 20px 20px;
+  background-color: #f0f9f0;
+}
